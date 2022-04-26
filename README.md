@@ -1,4 +1,4 @@
-### Hi Im Noelia 👋
+### Hi, I'm Noelia 👋
 - 🌱 I’m currently learning programming in Adalab 💻
 - 💬 Ask me about HTML5, CSS3, Sass, JavaScript, React
 - 📫 How to reach me: https://www.linkedin.com/in/noeliaromerogarcia/
