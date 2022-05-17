@@ -2,6 +2,8 @@
 
  Welcome to my github!
  
+I have decided to reinvent my professional profile based on development and social integration, and to focus on the technological field within the field of web programming.
+ 
  Here you can find all my individual and group projects so that you can check out my work.
 
 ![Lemon Country Wedding Email Header](https://user-images.githubusercontent.com/99660729/167588450-3844addd-aad8-4b01-b885-7d17a754d2dc.png)
